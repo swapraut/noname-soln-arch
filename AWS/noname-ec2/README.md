@@ -11,10 +11,7 @@ $ terraform plan
 $ terraform apply
 Note that this example may create resources which can cost money. Run terraform destroy when you don't need these resources.
 
-Requirements
-Name	Version
-terraform	>= 0.13
-aws	>= 3.0
-Providers
-Name	Version
-aws	>= 3.55
+Requirements:
+1. terraform	>= 0.13
+2. aws	>= 3.0
+Providers: aws	>= 3.55
