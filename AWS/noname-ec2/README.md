@@ -1,7 +1,7 @@
-Create a Noname Server in hosted/on-premise AWS environment
-Configuration in this directory creates a security group, Noname server with Elastic IP
+Create a Noname Server in hosted/on-premise AWS environment.
+Configuration in this directory creates a security group, Noname server with Elastic IP.
 
-Note: Please remove Elastic IP resource if you are planning to access using private IP
+Note: Please remove Elastic IP resource if you are planning to access using private IP.
 
 Usage
 To run this example you need to execute:
