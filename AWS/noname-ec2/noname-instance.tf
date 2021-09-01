@@ -70,4 +70,5 @@ resource "aws_eip" "Noname-TF" {
   tags = {
     Name = "Noname-Server-TF-EIP"
   }
+  depends_on = [ aws_instance.nonameservertf]
 }
